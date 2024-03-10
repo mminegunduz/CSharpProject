@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\DELL\source\repos\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\DELL\source\repos\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\DELL\source\repos\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\DELL\source\repos\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb
