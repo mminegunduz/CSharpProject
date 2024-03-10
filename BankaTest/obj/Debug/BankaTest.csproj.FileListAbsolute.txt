@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\BankaTest\bin\Debug\BankaTest.exe.config
+C:\Users\DELL\source\repos\BankaTest\bin\Debug\BankaTest.exe
+C:\Users\DELL\source\repos\BankaTest\bin\Debug\BankaTest.pdb
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.Form1.resources
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.Properties.Resources.resources
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.exe
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.pdb
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.Form2.resources
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.Form3.resources
+C:\Users\DELL\source\repos\BankaTest\obj\Debug\BankaTest.Form4.resources
