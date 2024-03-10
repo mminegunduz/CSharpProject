@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\HareketliNesne\bin\Debug\HareketliNesne.exe.config
+C:\Users\DELL\source\repos\HareketliNesne\bin\Debug\HareketliNesne.exe
+C:\Users\DELL\source\repos\HareketliNesne\bin\Debug\HareketliNesne.pdb
+C:\Users\DELL\source\repos\HareketliNesne\obj\Debug\HareketliNesne.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\HareketliNesne\obj\Debug\HareketliNesne.Form1.resources
+C:\Users\DELL\source\repos\HareketliNesne\obj\Debug\HareketliNesne.Properties.Resources.resources
+C:\Users\DELL\source\repos\HareketliNesne\obj\Debug\HareketliNesne.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\HareketliNesne\obj\Debug\HareketliNesne.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HareketliNesne\obj\Debug\HareketliNesne.exe
+C:\Users\DELL\source\repos\HareketliNesne\obj\Debug\HareketliNesne.pdb
