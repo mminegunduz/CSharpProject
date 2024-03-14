@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Sezar_Sifreleme\bin\Debug\Sezar_Sifreleme.exe.config
+C:\Users\DELL\source\repos\Sezar_Sifreleme\bin\Debug\Sezar_Sifreleme.exe
+C:\Users\DELL\source\repos\Sezar_Sifreleme\bin\Debug\Sezar_Sifreleme.pdb
+C:\Users\DELL\source\repos\Sezar_Sifreleme\obj\Debug\Sezar_Sifreleme.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Sezar_Sifreleme\obj\Debug\Sezar_Sifreleme.Form1.resources
+C:\Users\DELL\source\repos\Sezar_Sifreleme\obj\Debug\Sezar_Sifreleme.Properties.Resources.resources
+C:\Users\DELL\source\repos\Sezar_Sifreleme\obj\Debug\Sezar_Sifreleme.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Sezar_Sifreleme\obj\Debug\Sezar_Sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Sezar_Sifreleme\obj\Debug\Sezar_Sifreleme.exe
+C:\Users\DELL\source\repos\Sezar_Sifreleme\obj\Debug\Sezar_Sifreleme.pdb
