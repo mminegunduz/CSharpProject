@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Sefer_Seyahat\bin\Debug\Sefer_Seyahat.exe.config
+C:\Users\DELL\source\repos\Sefer_Seyahat\bin\Debug\Sefer_Seyahat.exe
+C:\Users\DELL\source\repos\Sefer_Seyahat\bin\Debug\Sefer_Seyahat.pdb
+C:\Users\DELL\source\repos\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.Form1.resources
+C:\Users\DELL\source\repos\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.Properties.Resources.resources
+C:\Users\DELL\source\repos\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.exe
+C:\Users\DELL\source\repos\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.pdb
