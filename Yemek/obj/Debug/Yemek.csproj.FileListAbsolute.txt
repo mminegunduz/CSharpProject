@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Yemek\bin\Debug\Yemek.exe.config
+C:\Users\DELL\source\repos\Yemek\bin\Debug\Yemek.exe
+C:\Users\DELL\source\repos\Yemek\bin\Debug\Yemek.pdb
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.Form1.resources
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.kontrol1.resources
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.kontrol2.resources
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.kontrol3.resources
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.Properties.Resources.resources
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.exe
+C:\Users\DELL\source\repos\Yemek\obj\Debug\Yemek.pdb
