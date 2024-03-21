@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\KelimeOgren\bin\Debug\KelimeOgren.exe.config
+C:\Users\DELL\source\repos\KelimeOgren\bin\Debug\KelimeOgren.exe
+C:\Users\DELL\source\repos\KelimeOgren\bin\Debug\KelimeOgren.pdb
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.Form1.resources
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.Properties.Resources.resources
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.exe
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.pdb
+C:\Users\DELL\source\repos\KelimeOgren\obj\Debug\KelimeOgren.FrmGiris.resources
