@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\PastahaneMaliyet\bin\Debug\PastahaneMaliyet.exe.config
+C:\Users\DELL\source\repos\PastahaneMaliyet\bin\Debug\PastahaneMaliyet.exe
+C:\Users\DELL\source\repos\PastahaneMaliyet\bin\Debug\PastahaneMaliyet.pdb
+C:\Users\DELL\source\repos\PastahaneMaliyet\obj\Debug\PastahaneMaliyet.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PastahaneMaliyet\obj\Debug\PastahaneMaliyet.Form1.resources
+C:\Users\DELL\source\repos\PastahaneMaliyet\obj\Debug\PastahaneMaliyet.Properties.Resources.resources
+C:\Users\DELL\source\repos\PastahaneMaliyet\obj\Debug\PastahaneMaliyet.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\PastahaneMaliyet\obj\Debug\PastahaneMaliyet.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PastahaneMaliyet\obj\Debug\PastahaneMaliyet.exe
+C:\Users\DELL\source\repos\PastahaneMaliyet\obj\Debug\PastahaneMaliyet.pdb
